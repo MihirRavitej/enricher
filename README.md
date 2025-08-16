@@ -1,5 +1,4 @@
-
-# Facebook Contact Enricher (derive phone number and email id of agents by name and dealership)
+# Facebook Contact Enricher - Derive phone number and email id of agents by name and dealership
 
 ## Files
 - `fb_contact_enricher.py`: Playwright-based script to find public phone/email on Facebook pages for each agent.
